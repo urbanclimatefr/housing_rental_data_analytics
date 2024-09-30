@@ -12,9 +12,11 @@ The report is divided into 3 parts:
      
 3. Considering web-based application
    Given the context of developing a public-facing application to promote a housing manager's business and the intention to capture personal details of potential clients, here are the three most salient privacy issues to consider, informed by the details provided in Task    1 and Task 2:
-  - Data Security and Privacy Compliance
-  - Consent and Transparency
-  - Long-term Data Storage and Accessibility
-    
+     - Data Security and Privacy Compliance
+     - Consent and Transparency
+     - Long-term Data Storage and Accessibility
+
+
+------------------------------    
 - The source code is in data folder
 - Detailed report is in report.pdf
